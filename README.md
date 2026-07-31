@@ -1,6 +1,6 @@
 # 🛍️ Customer Shopping Behavior Analysis
 
-> An end-to-end Data Analytics project that transforms raw retail transaction data into actionable business insights using **Python**, **PostgreSQL**, **SQL**, and **Power BI**.
+> An end-to-end Data Analytics project that transforms raw retail transaction data into actionable business insights using **Python**, **Mysql**, **SQL**, and **Power BI**.
 
 ---
 
@@ -8,7 +8,7 @@
 
 Understanding customer behavior is essential for businesses to improve customer satisfaction, optimize marketing strategies, and maximize revenue. This project analyzes **3,900 customer shopping transactions** to uncover valuable insights into purchasing behavior, customer demographics, product performance, subscription trends, seasonal sales, and revenue generation.
 
-The project follows the complete **Data Analytics lifecycle**, beginning with data cleaning and preprocessing in **Python**, storing and analyzing the cleaned data in **PostgreSQL** using **SQL**, and finally developing an interactive **Power BI Dashboard** for business decision-making.
+The project follows the complete **Data Analytics lifecycle**, beginning with data cleaning and preprocessing in **Python**, storing and analyzing the cleaned data in **MYSQL** using **SQL**, and finally developing an interactive **Power BI Dashboard** for business decision-making.
 
 Through exploratory analysis and business-focused SQL queries, the project identifies customer segments, evaluates product performance, examines the impact of discounts, compares revenue across different demographics, analyzes payment methods, and provides strategic recommendations that can help improve customer engagement and business growth.
 
@@ -36,7 +36,7 @@ The final dashboard enables stakeholders to interactively explore key performanc
 |------|---------|
 | 🐍 Python | Data Cleaning & Preprocessing |
 | 🐼 Pandas | Data Manipulation |
-| 🗄️ PostgreSQL | Database Management |
+| 🗄️ MYSQL | Database Management |
 | 📝 SQL | Business Analysis |
 | 📊 Power BI | Dashboard Development |
 | 📈 DAX | Dashboard Calculations |
@@ -58,7 +58,7 @@ The final dashboard enables stakeholders to interactively explore key performanc
 - Prepared data for SQL analysis
 
 ### 🗄️ Database & SQL Analysis
-- Loaded cleaned dataset into PostgreSQL
+- Loaded cleaned dataset into MYSQL
 - Wrote business-oriented SQL queries
 - Extracted insights from customer transactions
 - Performed revenue and segmentation analysis
@@ -99,16 +99,6 @@ The interactive Power BI dashboard provides a comprehensive view of customer sho
 - Shipping Type
 
 ---
-
-## 🖼️ Dashboard Preview
-
-> Add your dashboard screenshot inside an **images** folder and update the image path below.
-<p align="center">
-<a href="images/dashboard.png">
-<img src="images/dashboard.png" width="1000">
-</a>
-</p>
-
 
 # 🔍 Key Insights
 
